@@ -1,50 +1,68 @@
-# About Me:
-iI'm currently studying and focusing on game development.
+<div align="center">
 
-###
+# Hey there, I'm Dulak 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+**Developer building mods, websites & games**
+
+
+[![Website](https://img.shields.io/badge/dulakgg.me-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://dulakgg.me)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CQFyRJDP5y)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Dulakggyy)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dulakgg)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="dulakgg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Dulakggyy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://ko-fi.com/dulakgg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
-  </a>
+## About Me
+
+- Web developer working with **Next.js**, **React** & **Tailwind CSS**
+- Game developer learning the ropes with **Unity** and **C#**
+- Currently studying
+- Open to **collaborations**, contributions, and new projects
+- Reach me on **Discord** or via my [website](https://dulakgg.me)
+
+---
+
+## Tech Stack
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts,python&perline=8)](https://skillicons.dev)
+
+### Web & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=8)](https://skillicons.dev)
+
+### Tools & Other
+[![My Skills](https://skillicons.dev/icons?i=unity,blender,discordjs,github&perline=8)](https://skillicons.dev)
+
+---
+
+## Featured Projects
+
+> Check out my [**website**](https://dulakgg.me/mods) for a full list of mods & projects!
+
+---
+
+## Contributing & Collaboration
+
+I'm always happy to collaborate or accept contributions to my open-source projects!
+
+Feel free to also open **Issues** for bug reports, feature requests, or questions.
+If you want to talk before contributing, hit me up on [Discord](https://discord.gg/CQFyRJDP5y)!
+
+---
+
+## Organizations I'm Part Of
+
+[![ThePlatformerList](https://img.shields.io/badge/ThePlatformerList-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThePlatformerList)
+[![Global-Stats-Viewer](https://img.shields.io/badge/Global--Stats--Viewer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Global-Stats-Viewer)
+[![Nine-Circles-Demonlist](https://img.shields.io/badge/Nine--Circles--Demonlist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nine-Circles-Demonlist)
+[![The-Shitty List](https://img.shields.io/badge/The--Shitty--List-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheShittyList)
+
+---
+
+<div align="center">
+
+*If any of my work has been useful, consider [supporting me on Ko-fi](https://ko-fi.com/dulakgg) ☕*
+
 </div>
-
-###
