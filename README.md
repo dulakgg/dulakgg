@@ -57,7 +57,6 @@ If you want to talk before contributing, hit me up on [Discord](https://discord.
 [![ThePlatformerList](https://img.shields.io/badge/ThePlatformerList-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThePlatformerList)
 [![Global-Stats-Viewer](https://img.shields.io/badge/Global--Stats--Viewer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Global-Stats-Viewer)
 [![Nine-Circles-Demonlist](https://img.shields.io/badge/Nine--Circles--Demonlist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nine-Circles-Demonlist)
-[![The-Shitty List](https://img.shields.io/badge/The--Shitty--List-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheShittyList)
 
 ---
 
