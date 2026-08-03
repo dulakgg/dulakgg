@@ -2,7 +2,7 @@
 
 # Hey there, I'm Dulak 
 
-**Developer building mods, websites & games**
+**Developer building mods, websites & Tools**
 
 
 [![Website](https://img.shields.io/badge/dulakgg.me-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://dulakgg.me)
@@ -54,9 +54,11 @@ If you want to talk before contributing, hit me up on [Discord](https://discord.
 
 ## Organizations I'm Part Of
 
-[![ThePlatformerList](https://img.shields.io/badge/ThePlatformerList-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThePlatformerList)
+[![TheShittyList](https://img.shields.io/badge/TheShittyList-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheShittyList)
 [![Global-Stats-Viewer](https://img.shields.io/badge/Global--Stats--Viewer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Global-Stats-Viewer)
 [![Nine-Circles-Demonlist](https://img.shields.io/badge/Nine--Circles--Demonlist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nine-Circles-Demonlist)
+[![Top-Towers-Community](https://img.shields.io/badge/Top--Towers--Community-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Top-Towers-Community)
+[![Extreme-Demon-Index](https://img.shields.io/badge/Extreme--Demon--Index-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Extreme-Demon-Index)
 
 ---
 
