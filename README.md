@@ -57,7 +57,6 @@ If you want to talk before contributing, hit me up on [Discord](https://discord.
 [![Global-Stats-Viewer](https://img.shields.io/badge/Global--Stats--Viewer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Global-Stats-Viewer)
 [![Nine-Circles-Demonlist](https://img.shields.io/badge/Nine--Circles--Demonlist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nine-Circles-Demonlist)
 [![Top-Towers-Community](https://img.shields.io/badge/Top--Towers--Community-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Top-Towers-Community)
-[![Extreme-Demon-Index](https://img.shields.io/badge/Extreme--Demon--Index-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Extreme-Demon-Index)
 
 ---
 
